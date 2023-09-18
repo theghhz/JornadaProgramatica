@@ -15,8 +15,8 @@ fase = 1
 
 controllers 
 
-check - habilitar o "pressione espaço" na tela
-uncheck - desabilita o "pressione espaço" na tela
+CHECK - habilitar o "pressione espaço" na tela
+UNCHECK - desabilita o "pressione espaço" na tela
 
 astro1 - habilita o sprite principal do astronauta, o sprite secundário do jogador, e desabilita os sprites principal do jogador e secundário do astronauta
 
