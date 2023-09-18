@@ -1,0 +1,26 @@
+variáveis
+
+controler_f - controle de conversa no geral. Especificada cada fala no GDD. A utilização no controle do jogo é como n-1 no gdd e n no jogo.
+
+conv - controle de exibição de sprites durante as conversas. conv = 0 -> null
+conv = 1 -> jogador
+conv = 2 -> astronauta
+
+fase - controle de número de fases;
+
+primeira fala
+controle_f = 1
+conv = 2
+fase = 1
+
+controllers 
+
+check - habilitar o "pressione espaço" na tela
+uncheck - desabilita o "pressione espaço" na tela
+
+astro1 - habilita o sprite principal do astronauta, o sprite secundário do jogador, e desabilita os sprites principal do jogador e secundário do astronauta
+
+p3 - habilita o sprite principal do jogador e o sprite secundário do astronauta e desabilita o sprite principal do astronauta e secundário do jogador
+
+desafio_n - ativação do desafio seguidas de numeração de suas fases, n sendo o número do capítulo/fase.
+
