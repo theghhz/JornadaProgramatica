@@ -8,6 +8,11 @@ conv = 2 -> astronauta
 
 fase - controle de número de fases;
 
+DESAFIO_ON - controle de desafio on na tela;
+DESAFIO_ON = 0 -> OFF
+DESAFIO_ON = 1 -> ON
+
+
 primeira fala
 controle_f = 1
 conv = 2
@@ -22,5 +27,11 @@ astro1 - habilita o sprite principal do astronauta, o sprite secundário do joga
 
 p3 - habilita o sprite principal do jogador e o sprite secundário do astronauta e desabilita o sprite principal do astronauta e secundário do jogador
 
-desafio_n - ativação do desafio seguidas de numeração de suas fases, n sendo o número do capítulo/fase.
+DESAFIO_ON - ATIVAÇÃO DO DESAFIO
 
+DESAFIO_CHECK - VARIÁVEL SECUNDÁRIA PARA CONTROLE DE DESAFIO
+
+START_PAINELCONTROLE - ATIVAÇÃO DO PAINEL DE CONTROLE
+PAINEL DE CONTROLE 
+
+CONTROLEGERAL - ATIVAÇÃO DO PAINEL DE CONTROLE GERAL
