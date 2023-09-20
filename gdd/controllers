@@ -12,7 +12,8 @@ DESAFIO_ON - controle de desafio on na tela;
 DESAFIO_ON = 0 -> OFF
 DESAFIO_ON = 1 -> ON
 
-
+ON_OFF - VARIÁVEIS LOCAIS DAS ALAVANCAS.
+MODO - CONTROLE DO MODO DE VIAGEM UTILIZANDO BASE BINÁRIA PARA CONTROLE
 primeira fala
 controle_f = 1
 conv = 2
@@ -35,3 +36,10 @@ START_PAINELCONTROLE - ATIVAÇÃO DO PAINEL DE CONTROLE
 PAINEL DE CONTROLE 
 
 CONTROLEGERAL - ATIVAÇÃO DO PAINEL DE CONTROLE GERAL
+
+TICKRATE - ATUALIZAÇÃO DE TELA
+
+MD_LAN - Ativação do texto de modo de lançamento
+MD_ORB - Ativação do texto de modo de órbita
+MD_RET - Ativação do texto de modo de retorno
+MD_UND - Ativação do texto de modo indefinido
