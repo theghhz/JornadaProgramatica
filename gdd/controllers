@@ -1,4 +1,5 @@
-variáveis
+------------------------------------------
+VARIÁVEIS
 
 controler_f - controle de conversa no geral. Especificada cada fala no GDD. A utilização no controle do jogo é como n-1 no gdd e n no jogo.
 
@@ -13,13 +14,24 @@ DESAFIO_ON = 0 -> OFF
 DESAFIO_ON = 1 -> ON
 
 ON_OFF - VARIÁVEIS LOCAIS DAS ALAVANCAS.
+
 MODO - CONTROLE DO MODO DE VIAGEM UTILIZANDO BASE BINÁRIA PARA CONTROLE
-primeira fala
+
+ESCOLHA_NUM  - CONTROLE DAS ESCOLHAS 
+
+MODOVIAGEM - MODO DE VIAGEM DA NAVE ATUAL
+
+ALTERAR - CONTROLE DE QUAL COMANDO ESTÁ SENDO ALTERADO
+ALTERAR = 1 -> MODO DE VIAGEM
+------------------------------------------
+PRIMEIRA FALA -
+
 controle_f = 1
 conv = 2
 fase = 1
 
-controllers 
+------------------------------------------
+CONTROLLERS
 
 CHECK - habilitar o "pressione espaço" na tela
 UNCHECK - desabilita o "pressione espaço" na tela
@@ -41,10 +53,7 @@ TICKRATE - ATUALIZAÇÃO DE TELA
 
 ESCOLHA - ATIVAÇÃO DO BALÃO COM 4 ESCOLHAS NUMERADAS
 
+ESCOLHA OFF - CONTROLE DE IMAGENS 
+
 PAINEL - ATIVAÇÃO DO PAINEL 
 
-
-MD_LAN - Ativação do texto de modo de lançamento
-MD_ORB - Ativação do texto de modo de órbita
-MD_RET - Ativação do texto de modo de retorno
-MD_UND - Ativação do texto de modo indefinido
