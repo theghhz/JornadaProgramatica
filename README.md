@@ -42,3 +42,7 @@ Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas 
 
 ### Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+
+### Versão
+
+#### V1.0.4
